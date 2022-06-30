@@ -1,0 +1,5 @@
+.DS_Store
+secrets.txt
+
+# Comment: private files
+# *.txt indicates all files ending in ".txt"
